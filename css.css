@@ -1,0 +1,125 @@
+*{
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}    
+.start {
+    font-family: 'Abril Fatface', serif;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding: 10px;
+    margin: 1px ;
+    list-style: none;
+    background-color: black;
+
+ }
+.start a{
+    text-decoration: none;
+}
+.start ul li{
+    display: inline-block;
+}
+.start ul li a{
+    padding: 20px;
+    text-align: center;
+}
+ .style {
+    font-size: 12px;
+ }
+ .bold {
+    font-size: 18px;
+    font-weight: bold;
+    text-indent: 21px;
+ }
+ #ee{
+    padding: 0 225px 0 0 ;
+ }
+body{
+    background-image: url("hand-pouring-out-fresh-roasted-coffee-beans-from-spoon-isolated-black.jpg");
+    background-size:cover;
+}
+h1 {
+    padding: 180px 378px 11px 122px ;
+    font-size: 45px;
+    font-weight: bold;
+    text-indent: 21px;
+}
+.line{
+    font-size: 17px;
+    padding: 2px 224px 21px 57px ;
+    color :#be9292 ; 
+}
+p {
+    padding: 1px 146px 26px 44px;
+    font-size: 18px;
+    text-indent: 26px;
+} 
+.title2 {
+    text-align: center;
+    padding: 140px 0 36px 0 ;
+    font-size: 40px;
+}
+.kind {
+    text-align: center;
+    padding: 0px 203px 80px 171px;
+    font-size: 15px;
+}
+.img {
+    margin: auto;
+    text-align: center;
+    padding: 4px 234Px 0 340px;
+    display: inline-block;
+}
+.black{
+    padding: 21px 27px 6px 30px;
+    margin: 10px;
+    border: 3px solid #563232;
+    float: left;
+
+}
+.mock {
+    padding: 0px 8px 6px 2px;
+
+    margin: 7px;
+    border: 3px solid #563232;
+    float: left;
+
+}
+.macchiato {
+    padding: 0px 8px 6px 2px;
+    margin: 10px;
+    border: 3px solid #563232;
+    float: left;
+
+}
+.desc  {
+    text-align: right;
+    font-size: 22px;
+    text-decoration: underline;
+}
+.text {
+    font-size: 14px;
+    text-align: center;
+    padding: 28px 80px 250px 70px;
+}
+.coffeloge {
+    font-size: 25px;
+    text-align: center;
+
+}
+.foot {
+    font-size: 10px;
+    display: inline;
+    padding: 4px 0 0 430px;
+    margin: 1px ;
+    text-align: center;
+}
+.foot a{
+    text-decoration: none;
+}
+.foot li{
+    display: inline-block;
+    padding: 20px;
+
+}
